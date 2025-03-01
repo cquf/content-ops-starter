@@ -170,11 +170,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Let us help you !
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Struggling to get more customers? We help local businesses\_**boost visibility, attract more leads, and increase revenue**with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Whether you need to rank higher on\_**Google Maps**, improve your\_**online presence**, or engage with customers through email, we’ve got you covered.\n\n\U0001F4CD\_**Get found. Get leads. Get results.**\_Let’s take your business to the next level!\n"
     media:
       title: Title of the video
       url: ''
