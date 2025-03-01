@@ -207,7 +207,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Local SEO is a NEED
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
