@@ -221,13 +221,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/Clyx.png
       altText: Fun feature preview
