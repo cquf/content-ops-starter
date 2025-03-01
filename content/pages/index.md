@@ -214,13 +214,7 @@ sections:
     text: >
       A service that helps businesses to acquire more customers and be found
       with a simple search !
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/Clyx.png
       altText: Fun feature preview
