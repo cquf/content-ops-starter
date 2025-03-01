@@ -243,11 +243,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "### **\U0001F4DE Contact Us**\n\nHave questions or need help growing your business?\_**Reach out to us today!**\_Whether it’s\_**Local SEO, Google My Business optimization, or future Email Marketing services**, we’re here to help you scale faster.\n\nFill out the form below, and we’ll get back to you as soon as possible! \U0001F680\n"
     media:
       fields:
         - name: name
