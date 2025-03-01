@@ -186,7 +186,7 @@ sections:
       with a simple search !
     actions: []
     media:
-      url: /images/Clyx Tech Logo Street Style.png
+      url: /images/Clyx Technology Logo.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
