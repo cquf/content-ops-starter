@@ -11,7 +11,7 @@ sections:
     text: "Struggling to attract more customers? We help local businesses\_**rank higher, get more leads, and increase revenue**\_with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Let us handle your online presence so you can focus on what you do best—running your business.\n\n\U0001F4CD\_**Get found. Get customers. Grow fast.**\_Start your journey today!\n"
     actions: []
     media:
-      url: /images/Clyx.png
+      url: /images/Clyx Tech Logo Street Style.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
