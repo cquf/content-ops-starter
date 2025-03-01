@@ -89,10 +89,7 @@ sections:
               borderRadius: x-large
       - title: Google My Business
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Stand out on Google with a fully optimized\_**Google My Business (GMB) profile**. We handle everything from setup to ongoing management, helping you attract more customers and build trust online.\n\n✔ GMB Profile Setup & Optimization\n✔ Regular Updates & Post Scheduling\n✔ Customer Reviews & Engagement Strategy\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
