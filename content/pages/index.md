@@ -109,7 +109,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Email Marketing
+      - title: "\U0001F4E7 Email Marketing (Coming Soon!)"
         subtitle: ''
         text: "Stay connected with your customers and grow your audience through\_**strategic email marketing campaigns**. Coming soon, we’ll offer:\n\n✔ Professional Email Campaigns\n✔ Automated Follow-Ups & Newsletters\n✔ Targeted Customer Engagement\n"
         image:
