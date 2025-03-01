@@ -62,7 +62,7 @@ sections:
     subtitle: What we Offer
     items:
       - type: FeaturedItem
-        title: Local SEO
+        title: "\U0001F4CD Local SEO Optimization"
         subtitle: ''
         text: "Boost your business’s visibility in local searches! We help you rank higher on\_**Google Maps, local directories, and search engine results**, ensuring that customers in your area find you first.\n\n✔ Keyword Optimization for Local Search\n✔ Google Maps & Directory Listings\n✔ On-Page & Off-Page SEO for Local Growth\n"
         actions: []
