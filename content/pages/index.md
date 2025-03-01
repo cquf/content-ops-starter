@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Have any questions? Email us at : cquf.ot@gmail.com'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Struggling to attract more customers? We help local businesses\_**rank higher, get more leads, and increase revenue**\_with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Let us handle your online presence so you can focus on what you do best—running your business.\n\n\U0001F4CD\_**Get found. Get customers. Grow fast.**\_Start your journey today!\n"
     actions:
       - label: Get started
         altText: ''
