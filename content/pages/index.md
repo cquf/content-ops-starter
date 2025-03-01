@@ -239,7 +239,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: With A Form
       color: text-dark
       type: TitleBlock
     subtitle: ''
