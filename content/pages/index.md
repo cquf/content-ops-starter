@@ -64,10 +64,7 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Boost your business’s visibility in local searches! We help you rank higher on\_**Google Maps, local directories, and search engine results**, ensuring that customers in your area find you first.\n\n✔ Keyword Optimization for Local Search\n✔ Google Maps & Directory Listings\n✔ On-Page & Off-Page SEO for Local Growth\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
