@@ -212,8 +212,8 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      A service that helps businesses to acquire more customers and be found
+      with a simple search !
     actions:
       - label: Get started
         url: /
