@@ -243,7 +243,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: Clyx Tech Gif.mp4
+      url: ClyxTechGif.mp4
       autoplay: true
       loop: true
       muted: true
