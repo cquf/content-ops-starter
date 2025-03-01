@@ -111,10 +111,7 @@ sections:
         type: FeaturedItem
       - title: Email Marketing
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Stay connected with your customers and grow your audience through\_**strategic email marketing campaigns**. Coming soon, we’ll offer:\n\n✔ Professional Email Campaigns\n✔ Automated Follow-Ups & Newsletters\n✔ Targeted Customer Engagement\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
