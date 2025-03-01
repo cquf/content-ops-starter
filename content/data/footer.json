@@ -5,16 +5,7 @@
     },
     "text": "**ClyxTech** – Helping local businesses **grow 10X faster** with expert **Local SEO, Google My Business optimization, and Email Marketing**. Get found, get leads, and scale your business today! 🚀\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
