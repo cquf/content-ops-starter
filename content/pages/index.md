@@ -87,7 +87,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Google My Business
+      - title: "\U0001F4E2 Google My Business"
         subtitle: ''
         text: "Stand out on Google with a fully optimized\_**Google My Business (GMB) profile**. We handle everything from setup to ongoing management, helping you attract more customers and build trust online.\n\n✔ GMB Profile Setup & Optimization\n✔ Regular Updates & Post Scheduling\n✔ Customer Reviews & Engagement Strategy\n"
         image:
