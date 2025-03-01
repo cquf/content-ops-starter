@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: 'Have any questions? Email us at : cquf.ot@gmail.com'
     text: "Struggling to attract more customers? We help local businesses\_**rank higher, get more leads, and increase revenue**\_with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Let us handle your online presence so you can focus on what you do best—running your business.\n\n\U0001F4CD\_**Get found. Get customers. Grow fast.**\_Start your journey today!\n"
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
