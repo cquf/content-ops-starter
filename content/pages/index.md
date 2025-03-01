@@ -243,7 +243,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: Clyx Tech Gif.mp4
       autoplay: true
       loop: true
       muted: true
