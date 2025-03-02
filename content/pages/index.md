@@ -150,7 +150,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Let us help you !
-    text: "Struggling to get more customers? We help local businesses\_**boost visibility, attract more leads, and increase revenue**with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Whether you need to rank higher on\_**Google Maps**, improve your\_**online presence**, or engage with customers through email, we’ve got you covered.\n\n\U0001F4CD\_**Get found. Get leads. Get results.**\_Let’s take your business to the next level!\n"
+    text: >+
+      <div style="text-align: center">What are you waiting for ? Reach out to us
+      **now** and get your business **on the move** !</div>
+
     media:
       title: Title of the video
       url: ''
