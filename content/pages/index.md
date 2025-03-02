@@ -149,7 +149,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Let us help you
+    subtitle: ''
     text: >+
       <div style="text-align: center">What are you waiting for ? Reach out to us
       **now** and get your business **on the move** !</div>
