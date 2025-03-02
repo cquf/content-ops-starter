@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Explore the wonders of \_ \_ \_ \_ \_ \_ \_ SEO & GMB Optimizations"
+      text: "Explore the wonders of \_ \_ \_ \_ \_ \_ \_ \_ SEO & GMB Optimizations"
       color: text-dark
       type: TitleBlock
     subtitle: 'Have any questions? Email us at : cquf.ot@gmail.com'
