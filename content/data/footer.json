@@ -9,5 +9,12 @@
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Contact Us"
+    "title": "Contact Us",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-5"
+            ]
+        }
+    }
 }
