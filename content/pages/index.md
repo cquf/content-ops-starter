@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Explore the wonders of \_ \_ \_ \_ \_ \_ \_ \_ SEO & GMB Optimizations"
+      text: Explore the wonders of SEO & GMB Optimizations
       color: text-dark
       type: TitleBlock
       styles:
