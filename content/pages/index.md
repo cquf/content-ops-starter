@@ -176,28 +176,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title:
-      text: Local SEO is a NEED
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to acquire more customers and be found
-      with a simple search !
-    actions: []
-    media:
-      url: /images/Clyx Technology Logo.png
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
