@@ -18,6 +18,9 @@ sections:
       label: Clyx Tech
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     elementId: ''
     colors: bg-light-fg-dark
     styles:
