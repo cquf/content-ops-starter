@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Have any questions? Email us at : cquf.ot@gmail.com'
+    subtitle: ''
     text: "<div style=\"text-align: center\">Struggling to attract more customers? We help local businesses\_**rank higher, get more leads, and increase revenue**\_with expert\_**Local SEO, Google My Business optimization, and (soon) Email Marketing**. Let us handle your online presence so you can focus on what you do best—running your business.</div>\n\n<div style=\"text-align: center\">\U0001F4CD\_**Get found. Get customers. Grow fast.**\_Start your journey today!</div>\n\n"
     actions: []
     media:
