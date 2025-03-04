@@ -192,6 +192,9 @@ sections:
 seo:
   metaTitle: Home
   metaDescription:
+<head>
+<meta name="google-site-verification" content="Nw8o1eqQNagXIsvyO6HzzHXLv_3dA89N-tXqM3h0CJM" />
+  </head>
   socialImage:
   type: Seo
 type: PageLayout
